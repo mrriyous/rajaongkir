@@ -35,7 +35,7 @@
 
 class Ongkir{
 
-	private $key = "8365d6bba34ff73da50f6c2196c4cbaa";
+	private $key = "";
 
 	protected $url = "http://api.rajaongkir.com/starter";
 
